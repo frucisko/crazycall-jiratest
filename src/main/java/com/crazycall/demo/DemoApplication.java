@@ -4,5 +4,6 @@ public class DemoApplication {
 
 	public static void main(String[] args) {
                String foo = "";
+               int bla = 1;
 	}
 }
